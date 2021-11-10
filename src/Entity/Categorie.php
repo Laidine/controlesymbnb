@@ -36,6 +36,6 @@ class Categorie
     {
         $this->designation = $designation;
 
-        return $this;
+        return $this; 
     } 
 }
